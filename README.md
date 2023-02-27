@@ -9,6 +9,7 @@ This project got in total 97/100 points.
 This code was written in the December of 2022. 
 
 Description:
+
 This is a GUI implementation of the base  snake game. In the game the goal
 is to move around the gameboard with a snake without the snake hitting its
 body or walls with its head and to eat as many pieces of food as possible.
